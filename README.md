@@ -50,9 +50,13 @@ Team Score Report	Fall 2026	View Team Score Report
 
 
 🛠️ Skills & Tools
+
 Cybersecurity interests: Incident response, digital forensics, threat intelligence
+
 Technical skills: OSINT, log analysis, scripting, packet analysis
+
 Tools/platforms: Wireshark, Linux, Python
+
 Certifications: Sec+, GCIH, GSEC, GFACT
 
 
