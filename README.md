@@ -19,13 +19,11 @@ My interest in cybersecurity began at a young age, fueled by my passion for tech
 🚩 My CTF Experience
 I've participated in the National Cyber League (NCL) CTF Challenge to practice applying cybersecurity concepts in a hands-on environment.
 
-Reflection
-[Write a paragraph or two answering:]
-- I had no idea what to expect. I had no clue what the structure of the questions and challenges would be, as my only lab experience was in school exams. 
-- I enjoyed OSINT the most. I also enjoyed web app penetration even though i found it the hardest. Network Traffic Analysis was also good and a confidence booster coming from a networking background.
-- My biggest hurdle was not having used the tools and techniques i know in a real life scenerio. everything i have learned so far has been demonstrated on small labs for class. this was a great opportunity to use them in a more realistic scenario. although this came with some troubles as its a little harder to find the flag when you arent given a bunch of hints or tips from your school book.
-- This experience really showed me what aspects of cyber investigating i like and am good at, and what i do not enjoy and am not strong in. 
-- For my next compitition, I would like to spend a bit more time on each question with less help from forums and textbooks. I felt there was a lot of content to get through and only a few days to do so which made it feel rushed.
+### Reflection
+
+Going into the National Cyber League (NCL) competition, I had no idea what to expect. I was unfamiliar with the structure of the questions and challenges, as most of my previous hands-on experience came from structured labs and exams in school. Throughout the competition, I discovered that I particularly enjoyed Open-Source Intelligence (OSINT), as it allowed me to investigate information and piece together clues to reach a conclusion. I also found web application penetration testing fascinating, although it was one of the most challenging categories for me. Network Traffic Analysis was another area I enjoyed and served as a confidence booster, given my professional background in networking. One of my biggest hurdles was applying tools and techniques I had learned in the classroom to more realistic scenarios. Unlike guided academic labs, these challenges required me to determine which tools to use, develop my own investigative approach, and figure out where to look without relying on step-by-step instructions or textbook hints.
+
+Overall, this experience gave me a much better understanding of my strengths, weaknesses, and interests within cybersecurity. It helped me identify the areas of cyber investigation that I genuinely enjoy and excel in, as well as those where I have room to improve. One of my biggest takeaways was realizing the difference between understanding a concept in a controlled learning environment and applying that knowledge independently to solve an unfamiliar problem. Looking ahead to my next competition, I would like to spend more time investigating each challenge on my own and rely less on forums, textbooks, and other external resources. With so many challenges to complete in just a few days, I often felt pressured to move quickly rather than fully explore the underlying concepts. In future competitions, I hope to balance efficiency with a deeper understanding of the tools, techniques, and reasoning behind each solution.
 
   
 CTF Participation Highlights
@@ -44,32 +42,23 @@ Participating in the National Cyber League (NCL) Fall 2026 competitions allowed 
 
 NCL Score Reports
 Report	Competition	Public link
-Individual Score Report	[Season / Year]	View Individual Score Report
-Team Score Report	[Season / Year]	View Team Score Report
+
+Individual Score Report	Fall 2026	View Individual Score Report
+- 
+Team Score Report	Fall 2026	View Team Score Report
+- 
 
 
 🛠️ Skills & Tools
-Cybersecurity interests: [Incident response, digital forensics, threat intelligence, etc.]
-Technical skills: [OSINT, log analysis, scripting, packet analysis, etc.]
-Tools/platforms: [Wireshark, Linux, Python, etc.]
-Certifications: [Only certifications you have earned, or clearly label those in progress.]
-📁 Projects & Other CTF Write-Ups (Optional)
-You can link to your own lab projects and write-ups for other CTFs that allow public solutions.
-Project	What it demonstrates	Link
-[Project or permitted CTF name]	[1-sentence description of skills demonstrated]	View Project
-[Project or permitted CTF name]	[1-sentence description of skills demonstrated]	View Project
+Cybersecurity interests: Incident response, digital forensics, threat intelligence
+Technical skills: OSINT, log analysis, scripting, packet analysis
+Tools/platforms: Wireshark, Linux, Python
+Certifications: Sec+, GCIH, GSEC, GFACT
 
 
 NCL policy reminder: Do not publish public-facing write-ups, flags, challenge prompts, or solution details from NCL challenges. Use score reports and high-level descriptions of your learning instead.
 
 📫 Connect With Me
-- LinkedIn: Your LinkedIn profile
-- GitHub: Your GitHub profile
-- Email (optional): [Your professional contact email]
-<!-- EDITING CHECKLIST:
-1. Replace all square-bracket prompts and PASTE_* URLs with your content.
-2. Remove any optional sections or rows you do not need.
-3. Confirm both NCL score-report links are public.
-4. Keep NCL discussion at a high level; do not include prohibited challenge write-ups.
-5. Save this file as README.md in the root of your GitHub repository.
--->
+- LinkedIn: ryan-kopper
+- GitHub: kopperryan
+- Email (optional): kopperryan@gmail.com
